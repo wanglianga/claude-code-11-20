@@ -1,0 +1,49 @@
+{
+  "book": {
+    "isbn": "9787100000035",
+    "title": "义务教育教科书·物理（九年级全一册）",
+    "subject": "物理",
+    "stage": "初中",
+    "volume": "九年级全一册",
+    "semester": "全学年",
+    "publisher": "示例教育出版社"
+  },
+  "edition": {
+    "generation": 1,
+    "supersede_reason": ""
+  },
+  "figures": {},
+  "chapters": [
+    {
+      "code": "W-CH13",
+      "title": "第十三章 内能",
+      "ordinal": 13,
+      "sections": [
+        {
+          "title": "13.1 分子热运动",
+          "units": [
+            {
+              "id": "W-P-13-1",
+              "type": "paragraph",
+              "text": "一切物质的分子都在不停地做无规则的运动，这种无规则运动叫做分子的热运动。温度越高，分子热运动越剧烈，扩散现象进行得越快。"
+            },
+            {
+              "id": "W-EX-13-1",
+              "type": "example",
+              "title": "例1 扩散现象解释",
+              "conditions": ["室温下向清水中滴入一滴红墨水"],
+              "text": "例1 在室温恒定、清水静止的前提下，解释红墨水滴入清水后整杯水逐渐变红的现象。解：水分子与墨水分子都在做无规则热运动，彼此进入对方，发生扩散；温度不变时扩散速率由分子热运动的剧烈程度决定。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "W-CH14",
+      "title": "第十四章 内能的利用",
+      "ordinal": 14,
+      "file": "chapters/w-ch14.json",
+      "sections": []
+    }
+  ]
+}
